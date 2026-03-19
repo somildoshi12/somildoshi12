@@ -29,7 +29,7 @@ Results-driven Data Science graduate student with hands-on experience in **data 
 
 - Currently a **Research Assistant in Data Engineering & Analytics** at the University of Houston
 - Actively seeking entry-level **Data Analyst**, **Data Engineer**, and **Data Science** roles
-- Based in **Houston, TX** — open to remote and hybrid opportunities
+- Based in **Houston, TX** — open to on-site, remote and hybrid opportunities
 - Published researcher in fraud detection and object detection
 
 ---
